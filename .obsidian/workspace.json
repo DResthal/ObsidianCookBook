@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd38d28e31c7fc25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Spaghetti.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b2880de0980f040a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Carnitas.md",
-                "mode": "preview",
+                "file": "Recipes/Spaghetti.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Carnitas.md",
+                "file": "Recipes/Spaghetti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Carnitas.md",
+                "file": "Recipes/Spaghetti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Carnitas.md"
+                "file": "Recipes/Spaghetti.md"
               }
             }
           }
@@ -164,12 +150,12 @@
   },
   "active": "b2880de0980f040a",
   "lastOpenFiles": [
-    "Recipes/Spaghetti.md",
-    "Recipes/Noodles from Scratch.md",
     "Recipes/Pasta Sauce.md",
     "Recipes/Corn Tortillas.md",
     "Recipes/Christmas Monkey Bread (Breakfast).md",
     "Recipes/Carnitas.md",
+    "Recipes/Spaghetti.md",
+    "Recipes/Noodles from Scratch.md",
     "Templates/Recipe.md"
   ]
 }
