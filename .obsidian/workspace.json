@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "9a9d42545d25987b",
+    "type": "split",
+    "children": [
+      {
+        "id": "55f4293f036da8c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd38d28e31c7fc25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Spaghetti.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2880de0980f040a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Carnitas.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b600627f2e6aca58",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30f808ce6a992ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad2b4b5c0d435ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c64db3a8bc02888f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8ad5e66a4b39353",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4661d379cd728d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "338eacda1ff14692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703c6e2a07d79d21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recipes/Carnitas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d565ebedc384c1f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Recipes/Carnitas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30f2a2cc4850db81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07c347c5878cea89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recipes/Carnitas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b2880de0980f040a",
+  "lastOpenFiles": [
+    "Recipes/Spaghetti.md",
+    "Recipes/Noodles from Scratch.md",
+    "Recipes/Pasta Sauce.md",
+    "Recipes/Corn Tortillas.md",
+    "Recipes/Christmas Monkey Bread (Breakfast).md",
+    "Recipes/Carnitas.md",
+    "Templates/Recipe.md"
+  ]
+}

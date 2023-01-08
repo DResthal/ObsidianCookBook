@@ -1,0 +1,9 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Recipes",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "showFrontmatter": true
+}
